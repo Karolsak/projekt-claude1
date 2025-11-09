@@ -1,0 +1,19 @@
+# Wymagane biblioteki dla modelu hybrydowej elektrowni wiatrowo-fotowoltaicznej
+
+# Obliczenia numeryczne
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Wizualizacja
+matplotlib>=3.4.0
+
+# Analiza danych
+pandas>=1.3.0
+
+# Logika rozmyta
+scikit-fuzzy>=0.4.2
+
+# Opcjonalne (dla zaawansowanych zastosowań)
+# jupyter>=1.0.0  # dla notebooków Jupyter
+# seaborn>=0.11.0  # dla zaawansowanej wizualizacji
+# plotly>=5.0.0  # dla interaktywnych wykresów
